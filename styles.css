@@ -5,10 +5,20 @@
 
 .first_section{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .second_section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.fourth_section{
     display: flex;
     justify-content: space-between;
 }
