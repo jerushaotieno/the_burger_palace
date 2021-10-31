@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.first_section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.second_section{
+    display: flex;
+    justify-content: space-between;
+}
