@@ -22,10 +22,15 @@
 .fourth_section{
     display: flex;
     justify-content: space-between;
+    background-color: #E1EBE6;
 }
 
 .burger{
     border:solid 1px black;
     border-radius: 6px;
     padding: 10px;
+}
+
+.footer{
+    background-color: #E1EBE6;
 }
